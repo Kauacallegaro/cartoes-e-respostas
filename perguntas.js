@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'futebol',
+    ' Quem ganhou a bola de ouro 2008?',
+    'CRISTIANO RONALDO'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'futebol',
+    'Quem ganhou a bola de ouro 2018?',
+    'LUKA MODRIC'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'futebol',
+    'Quem ganhou a bola de ouro 2023?',
+    'KARIN BENZEMA'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'futebol',
+    'Quem ganhou a bola de ouro 2024?',
+    'RODRIGO (RODRI)'
 )
